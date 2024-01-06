@@ -1,16 +1,31 @@
-# buscacep
+# BuscaCEP
 
-A new Flutter project.
+## About
 
-## Getting Started
+Create a minimal app for get address in Brasil.
 
-This project is a starting point for a Flutter application.
+## Images
 
-A few resources to get you started if this is your first Flutter project:
+![app](app.gif)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Tech
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter](https://docs.flutter.dev/get-started/install)
+
+### How to use?
+
+To get started, you'll need to have a few tools installed on your machine:
+[Git](https://git-scm.com), [Flutter](https://docs.flutter.dev/get-started/install), and you'll also need an emulator. You can find more information on the [Android Studio](https://developer.android.com/studio?hl=pt&gclid=CjwKCAjw1ICZBhAzEiwAFfvFhHLSUJj_5oi2_iujE7QitCc9tE3BjT5DXG-ML2YkUK8BMkz1PWBtWxoCU58QAvD_BwE&gclsrc=aw.ds) you'll need a code editor such as
+[VSCode](https://code.visualstudio.com/)
+
+#### Open u cmd and paste this code
+
+```bash
+# for clone repository:
+$ git git@github.com:Av3z/buscacep.git
+
+# use this for join folder app:
+$ cd buscacep
+
+# for start the project:
+$ flutter run
